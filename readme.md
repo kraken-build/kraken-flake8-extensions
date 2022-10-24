@@ -1,6 +1,6 @@
 # kraken-flake8-extensions
 
-This Flake8 plugin implements linst specific for the code base of the Kraken build system.
+This Flake8 plugin implements lints specific for the code base of the Kraken build system.
 
 | Code | Description |
 | ---- | ----------- |
